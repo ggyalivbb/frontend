@@ -1,0 +1,48 @@
+body {
+    background-image: url("img/101.jpg");
+}
+.menu>a{
+    background-color: black;
+}
+
+h2 {
+    color: darkorange;
+    background-color: black;
+}
+
+.card {
+    border: dotted 10px green;
+    width: 400px;
+    display: inline-block;
+    margin-left: 60px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-bottom: 65px;
+}
+
+
+
+.card > img {
+    width: 100%;
+
+}
+
+.button {
+    background-color: firebrick;
+    color: snow;
+    padding: 20px;
+    display: block;
+    border-radius: 50px;
+    text-decoration: none;
+}
+table{
+    margin:auto;
+    background-color: bisque;
+}
+.color1{background-color: antiquewhite;}
+.color2{background-color: red;}
+.color3{background-color: aqua;}
+.color4{background-color: blueviolet;}
+.link{
+    text-transform: none;
+}
